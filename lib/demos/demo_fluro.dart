@@ -1,9 +1,9 @@
+// Demostración de navegación y rutas dinámicas utilizando la librería Fluro.
 import 'package:flutter/material.dart';
 import 'package:fluro/fluro.dart';
-
 import '../screens/pantalla_detalle.dart';
 
-class AppFluro extends StatefulWidget {
+class AppFluro extends StatefulWidget { 
   const AppFluro({super.key});
 
   @override
